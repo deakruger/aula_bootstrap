@@ -1,0 +1,30 @@
+.navbar {
+    background-color: #F2E0F7;
+}
+
+.quem_somos {
+    background-color: antiquewhite;
+}
+
+.margin {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.titulos{
+    font-size: 40px;
+    font-style: italic;
+}
+
+.formacao {
+    background-color: bisque;
+}
+
+.icone {
+    width: 80px;
+    height: 80px;
+}
+
+.contato {
+    background-color: #F2E0F7;
+}
